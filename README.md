@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darel</h1>
 <h3 align="center">A passionate Full-stack developer from Spain</h3>
 
-- 🔭 I’m currently working on a **ToDo app with Ionic**
-
-- 🌱 I’m currently learning **Symfony and Material Design 3**
-
 - 📫 How to reach me **darelchcrespo@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
