@@ -3,7 +3,7 @@
 
 - 💬 About me **An enthusiast full-stack developer with excellent problem-solving skills, with a keen attention to detail.**
 
-- 📫 How to reach me **twh.darelnc@hotmail.com**
+- 📫 How to reach me **darelchcrespo@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
